@@ -22,7 +22,7 @@ body {
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background: var(--primary-color);
+  background: linear-gradient(to right, #4A98F7, var(--primary-color));
 }
 
 .container {
