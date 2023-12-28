@@ -1,4 +1,4 @@
-# personal-canvasCC
+# personal-canvas
 
 ![alt text](cover.png)
 
